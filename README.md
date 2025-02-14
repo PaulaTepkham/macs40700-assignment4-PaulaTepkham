@@ -5,6 +5,11 @@ Assignment 4
 ## Phornchanok (Paula) Tepkham
 [Link to Tableau Dashboard](https://public.tableau.com/shared/J3MXGFDFS?:display_count=n&:origin=viz_share_link)
 ![The Evolution of Baby Names](img/Dashboard.png)
+
+### Data Preparation: 
+The SSA name data was downloaded from [SSA Baby Names Database](https://www.ssa.gov/oact/babynames/limits.html) and processed using [R](yob_prep.R) to generate the cleaned dataset, saved as [CSV](long_format_yob_1880_2023_10years.csv). The data was structured in **long format** and sampled at **5-year intervals** from **1880 to 2023**, striking a balance between capturing detailed time-series trends and optimizing computational efficiency.  
+
+
 ### What is the Story?
 THow baby names in the United States have evolved from 1880 to 2023? I explores naming diversity, popularity trends, and birth frequency, providing insights into how societal and cultural influences have shaped parents' choices over time. The data highlights that the decline in the dominance of the most popular names, the rise in unique names, and the changes in birth rates across different decades. 
 
