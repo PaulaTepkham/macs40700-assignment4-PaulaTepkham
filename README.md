@@ -4,9 +4,9 @@ MACS 40700 1 Data Visualization
 Assignment 4
 ## Phornchanok (Paula) Tepkham
 [Link to Tableau Dashboard](https://public.tableau.com/shared/J3MXGFDFS?:display_count=n&:origin=viz_share_link)
-[The Evolution of Baby Names](img/Screenshot%202568-02-13%20at%2021.54.14.png)
+![The Evolution of Baby Names](img/Dashboard.png)
 ### What is the Story?
-This visualization tells the story of how baby names in the United States have evolved from 1880 to 2023. It explores naming diversity, popularity trends, and birth frequency, providing insights into how societal and cultural influences have shaped parents' choices over time. The data highlights key patterns, such as the decline in the dominance of the most popular names, the rise in unique names, and the changes in birth rates across different decades. By analyzing these trends, viewers can better understand the historical shifts in naming conventions and how they reflect broader demographic and social transformations.
+THow baby names in the United States have evolved from 1880 to 2023? I explores naming diversity, popularity trends, and birth frequency, providing insights into how societal and cultural influences have shaped parents' choices over time. The data highlights that the decline in the dominance of the most popular names, the rise in unique names, and the changes in birth rates across different decades. 
 
 One of the most striking observations is that the most popular names in earlier years had a significantly higher percentage share of total births compared to today. For example, in the 1880s, a few names dominated, whereas today, names are more varied, reflecting a cultural shift towards individuality and uniqueness. Additionally, the birth rate data aligns with major historical events, such as the Baby Boom era (1945–1960) and the subsequent stabilization of birth rates in the late 20th and early 21st centuries.
 
